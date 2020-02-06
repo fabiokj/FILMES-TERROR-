@@ -59,7 +59,7 @@ https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg<title>[COLOR
 <item>
 <title>[COLOR red]Filmes Diversos[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube.com/playlist?list=PLoo1QXVaAgyQG_oOdeE482EOj_xtm4cmd/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube.com/playlist?list=PLoo1QXVaAgyQG_oOdeE482EOj/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/qAaM89b.jpg</thumbnail>
 <fanart>https://i.imgur.com/qAaM89b.jpg</fanart>
 </item>
