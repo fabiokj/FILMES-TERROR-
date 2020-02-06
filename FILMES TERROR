@@ -50,7 +50,7 @@ https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg<title>[COLOR
 
 <item>
 <title>[COLOR red]Filmes Anos 90[/COLOR]</title>
-<link>ignoreme</link>
+<link>ignoreme</link>          youtube/playlist/PLoo1QXVaAgyQwad0xJDGcdatP9uGIqEB7
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLCcWr6nZW_pUUAjmEKignky_pxw1M1SCv/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/0i3UelO.jpg</thumbnail>
 <fanart>https://i.imgur.com/0i3UelO.jpg</fanart>
@@ -59,7 +59,7 @@ https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg<title>[COLOR
 <item>
 <title>[COLOR red]Filmes Diversos[/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube.com/playlist?list=PLoo1QXVaAgyQG_oOdeE482EOj/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLoo1QXVaAgyQwad0xJDGcdatP9uGIqEB7/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/qAaM89b.jpg</thumbnail>
 <fanart>https://i.imgur.com/qAaM89b.jpg</fanart>
 </item>
