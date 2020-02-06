@@ -1,5 +1,5 @@
 <item>
-https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg<title>[COLOR gold]CORINGA[/COLOR] - DUBLADO</title>
+<title>[COLOR gold]CORINGA[/COLOR] - DUBLADO</title>
 <link>https://videos.files.wordpress.com/Nvz5cnjr/coringa.2019.720p.dub_.enc__dvd.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJnXQL6Aa4s26eaORTvy0zRskfh.jpg</thumbnail>
 <fanart></fanart>
@@ -25,42 +25,12 @@ https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg<title>[COLOR
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg<title>[COLOR gold]QUATRO HISTORIAS DE FANTASMAS[/COLOR]</title>
+<title>QUATRO HISTORIAS DE FANTASMAS</title>
 <link>http://cdn2.canais.ink:80/RCFServer3/ondemand/QTROHSTRDFNTSMS.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/iXtqWsjs4kiClTD6zLJlijFdDBY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR red]Filmes Antigos 1[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLx3KMi5UfCYVvTleeGBEFsxnwHVUTK2OM/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/9XONxCQ.png</thumbnail>
-<fanart>https://i.imgur.com/9XONxCQ.png</fanart>
-</item>
 
-<item>
-<title>[COLOR red]Filmes Antigos 2[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLF0wMHu45oTE1W8QR-SFSUFXBVCukxPPH/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/NM9iHhP.jpg</thumbnail>
-<fanart>https://i.imgur.com/NM9iHhP.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]Filmes Anos 90[/COLOR]</title>
-<link>ignoreme</link>          youtube/playlist/PLoo1QXVaAgyQwad0xJDGcdatP9uGIqEB7
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLCcWr6nZW_pUUAjmEKignky_pxw1M1SCv/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/0i3UelO.jpg</thumbnail>
-<fanart>https://i.imgur.com/0i3UelO.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]Filmes Diversos[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLoo1QXVaAgyQwad0xJDGcdatP9uGIqEB7/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/qAaM89b.jpg</thumbnail>
-<fanart>https://i.imgur.com/qAaM89b.jpg</fanart>
-</item>
 
