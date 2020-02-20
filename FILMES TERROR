@@ -1,43 +1,104 @@
-<item>
-<title>SAGA SEXTA-FEIRA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ETcEAmUFRoWmVSm3GfecXHAxgKDgG4wU/view$$1sname=[COLOR orange]HD[/COLOR] 1980</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hFZxvykx0VSb1ZFnOsh7nJiIcPV0PjVn/view$$1sname=[COLOR orange]HD[/COLOR] PARTE II</link>
-<link>https://demhxyk3vl4cd.cloudfront.net/RCFServer3/ondemand/MDOAVIAO.mp4?attachment=true$$1sname=[COLOR orange]HD[/COLOR]PARTE 3</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsv1sfKJaYFhs9n59yWhJJTuQkj.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zWWL2ooPnXfAlS241Az3TYjO1L5.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR gold]CORINGA[/COLOR] - DUBLADO</title>
-<link>https://videos.files.wordpress.com/Nvz5cnjr/coringa.2019.720p.dub_.enc__dvd.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJnXQL6Aa4s26eaORTvy0zRskfh.jpg</thumbnail>
-<fanart></fanart>
-<info>Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[COLOR gold]MAL INTENSIONADOS [/COLOR] - DUBLADO</title>
-<link>http://cdn.topcine.tv/ondemand/filmes/Server1/Hellions.2015.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BYODVie5DVsftUH1S3BWqEIxpZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zcDh1FYEthynNOpcwqM9j8tKC7R.jpg</fanart>
-<info>A adolescente Dora Vogel (Chloe Rose) vê-se sozinha na noite de Halloween em Waterford, chamada de "a cidade mais dark do mundo". Quando um grupo de seres mascarados bate a sua porta, a jovem é transportada do mundo exterior para o sombrio. Agora, Dora precisará proteger seu corpo e alma das criaturas malignas conhecidas como Hellions.
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[COLOR gold]ESCONDIDOS [/COLOR] - DUBLADO</title>
-<link>http://cdn.topcine.tv/ondemand/filmes/Server1/Hidden.2015.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyqwK3UU1KHR9Ey5tw5amRhSRXJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/884cFOB5jgJXdRMqMMY7inGuxkv.jpg</fanart>
-<info>Uma família se esconde em um abrigo contra bombas depois de escapar de uma misteriosa epidemia pós apocalyptica, agora eles terão que lutar para sobreviver nessa misteriosa e angustiante história.
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>QUATRO HISTORIAS DE FANTASMAS</title>
-<link>http://cdn2.canais.ink:80/RCFServer3/ondemand/QTROHSTRDFNTSMS.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iXtqWsjs4kiClTD6zLJlijFdDBY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3wUbvsWZK5rScJXukgM6jfAVqLT.jpg</fanart>
-<info></info>     
-*************************************************************************************************************************
+#EXTINF:-1,O Exterminador Do Futuro: destino Sombrio
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/OExterminadordoFuturoDestinoSombrio.mp4
+#EXTINF:-1,Malévola:Dona Do Mal
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/malevola2_camv1_cinemk-byapollo.mp4
+#EXTINF:-1,Abominavel Cam
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/AbominavelCAM.mp4
+#EXTINF:-1,Eu Nou Sou Assassino
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/EUNSOUUMASSASSINO-BAIXO.mp4
+#EXTINF:-1,Campo Do Medo
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/campodomedo.mp4
+#EXTINF:-1,Sombra Lunar
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/Sombra_Lunar.mp4
+#EXTINF:-1,Predadores Assassino
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/PredadoresAssassinosV2.mp4
+#EXTINF:-1,Ad Astra:Rumo as Estrelas
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/Ad-AstraRumoasEstrelasV01.mp4
+#EXTINF:-1,Rambo: Até o Fim
+https://video.wixstatic.com/video/c822ba_15f072547cec41f281a7c57950e8124b/480p/mp4/file.mp4
+#EXTINF:-1,Fora De Serie
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/FORADESERIEDUBHD-BAIXO.mp4
+#EXTINF:-1,El Camino:Breaking Bad
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/ELCAMINODUBHD-BAIXO.mp4
+#EXTINF:-1,Steven Universo: O Filme
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/StevenUniversoOFilmeDUB.mp4
+#EXTINF:-1,Abominável
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/AbominavelCAM.mp4
+#EXTINF:-1,Projeto Gemini
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/ProjetoGemini-camleg.mp4
+#EXTINF:-1,Eu Não sou Assassino
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/EUNSOUUMASSASSINO-BAIXO.mp4
+#EXTINF:-1,Campo Do Medo
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/campodomedo.mp4
+#EXTINF:-1,Sombra Lunar
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/Sombra_Lunar.mp4
+#EXTINF:-1,Predadores Assassino
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/PredadoresAssassinosV2.mp4
+#EXTINF:-1,Velozes & Furiosos Robbs & Shaw
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/VelozesEFuriososHobbsEShawv2.mp4
+#EXTINF:-1,Ad Astra: Rumo As Estrela
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/Ad-AstraRumoasEstrelasV01.mp4
+#EXTINF:-1,Rambo: Até o Fim
+https://video.wixstatic.com/video/c822ba_15f072547cec41f281a7c57950e8124b/480p/mp4/file.mp4
+#EXTINF:-1,MIB:Homes De Preto Internacional
+http://oniichan.receitasgratis.xyz/backup/pasta1/mibinter-480p.mp4
+#EXTINF:-1,A Combinação:Redenção
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/The.Combination.Redemption.2019.480p.mp4
+#EXTINF:-1,It: Capitulo 2
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/It.Chapter.Two.2019.720p.HDCAM.Dublado.mp4
+#EXTINF:-1,Vingança a Sangue Frio
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/Vingan%c3%a7a.a.Sangue-Frio.2019.720p.mp4
+#EXTINF:-1,Um Lugar Sombrio
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/Um.Lugar.Sombrio.2019.480p.mp4
+#EXTINF:-1,Não vai ter Golpe
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/Nao.Vai.Ter.Golpe.2019.480p.mp4
+#EXTINF:-1,Invasão ao serviço secreto
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/Invasao.ao.servico.secreto.2019.720p.HDCAM.LEGENDADO.mp4
+#EXTINF:-1,Em Busca Da Cerveja Perfeita
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/Em.Busca.da.Cerveja.Perfeita.2019.mp4
+#EXTINF:-1,Clownado
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/Clownado.2019.mp4
+#EXTINF:-1,Clown
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/070919/Clown.2019.mp4
+#EXTINF:-1,O Menino Que Queria Se Rei
+http://oniichan.receitasgratis.xyz/backup/pasta1/omeninoquequeriaserrei-dub-480p.mp4
+#EXTINF:-1,Amor em Obras
+http://oniichan.receitasgratis.xyz/backup/pasta1/AMOREMOBRAS-BAIXO.mp4
+#EXTINF:-1,Aladdin
+http://oniichan.receitasgratis.xyz/backup/pasta1/aladdinDUB_480p.mp4
+#EXTINF:-1,John Wick 3:Parabellum
+http://oniichan.receitasgratis.xyz/backup/pasta1/johnwick3.DUB_480p.mp4
+#EXTINF:-1,Turma Da Monica: Laços
+http://oniichan.receitasgratis.xyz/backup/pasta1/turmadamonica480p.mp4
+#EXTINF:-1,Dora A Cidade Perdida
+http://oniichan.receitasgratis.xyz/backup/pasta1/doraeacidadeperdidacam.mp4
+#EXTINF:-1,Hellboy
+http://oniichan.receitasgratis.xyz/backup/pasta1/hellboy_dub480P.mp4
+#EXTINF:-1,Annabelle 3
+http://oniichan.receitasgratis.xyz/backup/pasta1/annabelle3_dub480P.mp4
+#EXTINF:-1,Seis Vezes Confusão
+http://oniichan.receitasgratis.xyz/backup/pasta1/6vezesconfusao.mp4
+#EXTINF:-1,Rede De Abuso
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/novo/Rede.de.Abuso.2019.mp4
+#EXTINF:-1,Gelo Em Chamas
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/geloemchamas480p-dub.mp4
+#EXTINF:-1,Era Uma Vez Em Hollywood
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/20do07de19/Era%20uma%20vez%20em%20Hollywood%20OnlineLEGENDADO.mp4
+#EXTINF:-1,Lutando Pela Família
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/Lutando_pela_Familia_480p.mp4
+#EXTINF:-1,Lucas Neto: Acampamento De Ferias
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/20do07de19/luccasnetoemacampamentodeferias.mp4
+#EXTINF:-1,Vingadores Ultimato
+http://v15-maliva.topbuzzcdn.com/tos-maliva-v-0000/a2de74263c1345019ab5963dbe93412d
+#EXTINF:-1,Minha Fama De Mau
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/Minha.Fama.de.Mau.2019.MP4.DUB.mp4
+#EXTINF:-1,4 latas
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/4Latas-dub-480p.mp4
+#EXTINF:-1,À Queima Roupa
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/aqueimaroupa-dub-480p.mp4
+#EXTINF:-1,Brinquedo Assassino
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/BrinquedoAssassinoLEG.mp4
+#EXTINF:-1,Deawood
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/DEADWOOD-BAIXO.mp4
+#EXTINF:-1,X-Men:Fênix Negra
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/X-Men-FenixNegra.mp4
